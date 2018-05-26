@@ -1,6 +1,5 @@
 package com.example.zzanzu.sopt180526
 
-import io.realm.Realm
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
 
